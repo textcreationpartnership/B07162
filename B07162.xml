@@ -1,0 +1,312 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Andrewes repentance, sounding alarum to returne from his sins vnto Almightie God. Perfectly guiding all those that hope to bee saued, in the direct way of repentance, whereby they may attain eternall life: : newly made in the autumne or declining of his age ...</title>
+            <author>Andrewes, John, fl. 1615.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1631</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B07162</idno>
+            <idno type="OCLC"> 76698191</idno>
+            <idno type="STC">STC 589.5</idno>
+            <idno type="STC">ESTC S90287</idno>
+            <idno type="EEBO-CITATION">76698191</idno>
+            <idno type="OCLC">ocm 76698191</idno>
+            <idno type="VID">184171</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B07162)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184171)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1475-1640 ; 2233:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Andrewes repentance, sounding alarum to returne from his sins vnto Almightie God. Perfectly guiding all those that hope to bee saued, in the direct way of repentance, whereby they may attain eternall life: : newly made in the autumne or declining of his age ...</title>
+                  <author>Andrewes, John, fl. 1615.</author>
+               </titleStmt>
+               <extent>[23] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Wright and are to be sold at his shop, at the signe of the Bible in Gilt-spur-street, without Newgate.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1631.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Initials; text in black letter.</note>
+                  <note>Imperfect: cropped, faded, stained, with print show-through.</note>
+                  <note>Reproduction of the original in: Peterborough Cathedral.</note>
+                  <note>Includes bibliographical references in marginal notes.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Repentance --  Christianity --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:184171:1"/>
+            <pb facs="tcp:184171:1"/>
+            <p>Andrewes REPENTANCE, Sounding Alarum, To Returne from his ſins vnto Almightie God.</p>
+            <p>Perfectly guiding all thoſe that hope to bee ſaued, in the direct way of Repentance, whereby they may attaine eternall life: newly made in the Autumne or declining of his age.</p>
+            <p>
+               <hi>Serò ſed ſeriò.</hi>
+            </p>
+            <p>Wherein is contained, not only what Repentance is, and the neceſſity thereof; but alſo (for the better ſatisfying of the doubtfull,) here is ſo plaine a reſolution, concer<g ref="char:EOLhyphen"/>ning the aſſurance of the penitent mans ſaluation, and that ſo directly penned, with proofes of holy Scripture, according vnto the Word of God; that I hope there is not the leaſt doubt to be made of it by any man, (if there be neuer ſo little of Gods grace in him,) but vpon his true repentance, he may be aſſured of his ſaluation, and certainly know whether hee ſhall bee ſaued or damned.</p>
+            <p>LONDON, Printed for <hi>Iohn Wright,</hi> and are to be ſold at his ſhop, at the ſigne of the Bible in Gilt-ſpur ſtreet, without Newgate. 1631.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:184171:2"/>
+            <pb facs="tcp:184171:2"/>
+            <head>Chriſtian Readers, I doe here dedicate and direct this my Booke vnto all you that are the elect children of God, deſiring through Ieſus Chriſt, your health in the Lord.</head>
+            <p>
+               <seg rend="decorInit">G</seg>Ood Chriſtian Readers, Trea<g ref="char:EOLhyphen"/>tiſes or Bookes of this kinde we haue too few; but of laſciuious too many: and whereas I haue formerly publiſhed vnto the view of the world, many ſmall books, for the ſetting forth of Gods glorie, the diſcharge of my conſcience, and the benefit of you the children of God, in the which I deſired not the praiſe of men, ſeeing it is but va<g ref="char:EOLhyphen"/>nity, neither did I looke for preferment, the world is ſo corrup<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed: for I here openly proteſt, I feare none but God, whoſe truth I teach, and hate no<g ref="char:EOLhyphen"/>thing but ſinne, which is the deſtruction of the ſoule; neither doe I care for my life, ſo it were loſt in the defence of the Goſpell.</p>
+            <p>And now ſeeing that my former bookes are ſo vendible, and ſo well liking vnto the children of God, that in ſhort time there haue beene diuers impreſſions printed, I haue therefore now ſet forth another booke, entituled <hi>Andrewes Repen<g ref="char:EOLhyphen"/>tance:</hi> which I made and compoſed for mine owne priuate vſe, intending to engroſſe it to my ſelfe.</p>
+            <pb facs="tcp:184171:3"/>
+            <p>And although it came forth laſt, which ſhould haue beene firſt, yet notwithſtanding, whereas it is <hi>ſerò,</hi> yet it is <hi>ſerio.</hi>
+            </p>
+            <p>And being made in the autumne, or declining of mine age, yet I doubt not by the helpe of God, but it will continue the whole time of my life: hoping you will grace me with your fauourable ſuſpence, vntill my deeds proue my doctrine. And withall, I moſt entirely deſire you, and euery one of you, (euen for my Sauiour Ieſus Chriſt his ſake) that ſhall gather any ſpirituall comfort to cure your ſoules out of theſe my labours, to pray vnto our Lord Ieſus Chriſt for me, to giue me his grace to returne vnto him by ſpeedy repentance, and therein to guide me with his Word, and di<g ref="char:EOLhyphen"/>rect me by his holy Spirit, that what I either preach or write, I may both in life and doctrine expreſſe, and performe the ſame vnto my liues end, that whileſt I endeuour to raiſe others, I may raiſe my ſelfe, from all my ſinnes, vnto the glorie of Gods holy name and the ſaluation of my owne ſoule. And ſo doe for mee an earneſt repen<g ref="char:EOLhyphen"/>tant ſinner, euen as you your ſelues, towards your ſelues, expect from Ieſus Chriſt. <hi>Valete in Chriſto.</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>Yours towards you, as I would you ſhould be for me,</hi> Iohn Andrewes <hi>Preacher of Gods Word.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:184171:3"/>
+            <head>
+               <hi>Andrewes</hi> Repentance, Sounding Alarum, to returne from his ſins vnto Almighty God.</head>
+            <div n="1" type="chapter">
+               <head>The firſt Chapter treaterh of the certainty of mans ſaluation; wherein hee may cleerely ſee, whether he ſhall bee ſaued or damned; with a moſt perfect rule di<g ref="char:EOLhyphen"/>rected by the holy Scripture, to guide him in the right way to auoid his ſinnes; and how to attaine eternall life.</head>
+               <p>
+                  <seg rend="decorInit">A</seg>Lmighty God,<note n="*" place="margin">Gen. 17.1.</note> that ſéeth from euerlaſting to euer<g ref="char:EOLhyphen"/>laſting,<note n="a" place="margin">Eccleſ. 39.20.</note> and knoweth all things, both paſt, preſent, and to come;<note n="b" place="margin">1 Sam. 2.3.</note> hath from the beginning of the world, and doth to the end there<g ref="char:EOLhyphen"/>of<note n="c" place="margin">Eſay 59.21. Ier. 32.37. Gen. 17.7. Acts 2.39. Ier. 31.33. Heb. 10.16, 17. Ezech. 18.21, 22. Ier. 24.7, 8, 9, 10.</note> gather, and preſerue vnto himſelfe, by his hnly Spirit,<note n="d" place="margin">Mat. 16.17</note> out of all Nations, the flower of all mankinde, to be an ho<g ref="char:EOLhyphen"/>ly companie of choſen people<note n="*" place="margin">Ioh. 10.28, 29, 30. Tit. 2.14.</note> preſerued for eternall life, whom nothing can ſepa<g ref="char:EOLhyphen"/>rate from God but ſinne,<note n="e" place="margin">Eſay 59.2</note> and nothing
+<pb facs="tcp:184171:4" rendition="simple:additions"/> ſooner than to deſpaire of his mercy, which is ouer all his workes<note n="f" place="margin">Pſal. 143.9</note>.</p>
+               <p>And therefore all you that would forſake your ſins to be the children of God, muſt haue an aſſured truſt,<note n="g" place="margin">Heb. 11.17. Iam. 1.6. Epheſ. 3.12. Rom. 10.10.</note> kindled in your hearts by the Holy Ghoſt,<note n="h" place="margin">Ioh. 6.29. Mat. 16.16, 17. 2 Cor. 4.13.</note> through the Word<note n="i" place="margin">Rom. 10.17 Rom. 1.16. Acts 10.44.</note> whereby you may be aſſuredly re<g ref="char:EOLhyphen"/>ſolued,<note n="k" place="margin">Rom 1.17. Gal. 3.11. Gal. 2.16.</note> that remiſſion of ſins, and euer<g ref="char:EOLhyphen"/>laſting life, is not giuen vnto others only, but vnto you alſo: and that you muſt haue a true and liuely faith in Ieſus Chriſt, to beléeue that you are his<note n="l" place="margin">Rom. 3.21, 22, 24. Gal. 1.15, 16. Epheſ. 2.8, 9. Phil. 3.9.</note>. Although your conſcience accuſe you; and Satan al<g ref="char:EOLhyphen"/>leage againſt you; that you haue not kept Gods Lawes; but haue grieuouſly ſinned<note n="m" place="margin">Rom. 3.9, 10, 11, 12. Rom. 7.23.</note>, and prouoked Gods wrath a<g ref="char:EOLhyphen"/>gainſt you, whereby you haue deſerued eternall damnation, yet notwithſtanding, if by your true repentance, hauing an inward ſorrow wrought by the Holy Ghoſt<note n="o" place="margin">Mat. 16.17. Ioh. 10.28, 29.</note>, for your ſinnes before commit<g ref="char:EOLhyphen"/>ted; you may embrace the benefits of Ieſus Chriſt by a liuely faith<note n="p" place="margin">Ioh. 3.18.</note>, with a full determination to continue in new<g ref="char:EOLhyphen"/>neſſe of life, yea, and that with a pure conſcience and perſwaſion of minde<note n="q" place="margin">1 Ioh. 2.2.</note>, that the full and perfect ſatiſfaction, righteouſ<g ref="char:EOLhyphen"/>neſſe, and holineſſe of Chriſt<note n="ſ" place="margin">1 Ioh. 2.1.</note> without any righteouſneſſe of yours,<note n="t" place="margin">Tit. 3.5. Ezech. 36.22</note> but of the méere mercy of God<note n="u" place="margin">Rom. 3.24. Eph. 2.8.</note>, is giuen vnto you; and that ſo cléerely, as if you had neuer committed any ſinne;<note n="*" place="margin">2 Cor. 5.21</note> then there is no doubt (by the grace of God) but the Lord will pardon all your offen<g ref="char:EOLhyphen"/>ces;
+<pb facs="tcp:184171:4"/> and <hi>If your ſinnes were as red as ſcarlet, hee will make them as white as ſnow;</hi>
+                  <note n="x" place="margin">Eſay 1.18.</note> and ſo you ſhall bée made heires of eternall life<note n="y" place="margin">Ioh. 3.36. 1 Ioh. 5.13.</note>.</p>
+               <p>But there are too too many, which through their careleſneſſe of repentance, although Gods Preachers daily perſwade them to repent;<note n="a" place="margin">Eſay 1.18. Ier. 18.11. 2 King 17.13. Ier. 25.5. Ier. 7.3. Ezech. 33.11 Ier. 35.15. Hoſ. 14.3. Ier. 4.2. Hoſ. 6.1. Ioel 12.2.</note> doe ſtand in doubt of their ſaluation; becauſe they haue grie<g ref="char:EOLhyphen"/>uouſly ſinned, and thereby greatly offen<g ref="char:EOLhyphen"/>ded the Maieſty of Almighty God, and procured his curſe for their ſinnes, as the Scripture ſaith, <hi>There is no peace to the wicked</hi>
+                  <note n="b" place="margin">Eſay 48.23, Prou. 38.1.</note>.</p>
+               <p>So that Satan layes before their faces all their ſinnes they haue committed, whereby their conſcience tels them, that by reaſon of their ſinnes, which they haue ſo long continued in without re<g ref="char:EOLhyphen"/>pentance, that they ſtand now in great danger of damnation, and that, <hi>Ibi nulla remis fio, vbi nulla posfit eſſe poenitentia,</hi> There can be no pardon, where can be no repen<g ref="char:EOLhyphen"/>tance, according vnto Chriſts owne ſaying, <hi>Except yee repent, yee ſhall all be damned</hi>
+                  <note n="c" place="margin">Luk 13.3. Eſay 59 2, Nahum. 1.2.</note>.</p>
+               <p>And note this for a certainty: ſo long as they careleſly ſtand, and continue in their damnable eſtate of ſinne, without repentance, ſo long they may very well doubt of their ſaluation; for he that con<g ref="char:EOLhyphen"/>tinueth in ſinne, and neuer doubteth of his ſaluation, ſcarce euer beléeueth to be ſaued<note n="d" place="margin">Ier. 20.14, 15. Iob. 3.3. Ier. 15.10. Iob 10.18, 19. Ionah. 2.4 Pſal 42.11. Pſal. 31.11.</note>. Therefore let no man deceiue
+<pb facs="tcp:184171:5"/> himſelfe, to continue in ſinne; for it will coſt him many a prayer,<note n="e" place="margin">Col. 4.2. Luk 18 1. 1 Theſſ. 5.17. Rom 12.12. 1 Tim. 2.8. Epheſ. 6.18.</note> and cauſe him to let fall a multitude of teares for his ſinnes,<note n="f" place="margin">Iam. 4.9. Mat. 26.75. Deut. 1.45. 2 King 20.1, 2, 3. Gen. 37 34, 35. 2 King. 22.11, 19.</note> before he can be certaine of his ſaluation: Yet let no man deſpaire of the mercies of God, becauſe where is <hi>nulla petitio, gratia nulla,</hi> no prayer, no grace, and no repentance, no pardon; but remember, the prayer of the righte<g ref="char:EOLhyphen"/>ous auaileth much, if it bee feruent<note n="g" place="margin">Iam. 5.16.</note>, therefore ſpéedily repent, for God is more mercifull, than man can be ſinfull, if man will be ſorrowfull.</p>
+               <p>
+                  <hi>If Satan ſay vnto you, or any others; how know ye whether God will accept of your repentance, or no, or if he would, how long may ye be aſſured of your ſaluation?</hi>
+               </p>
+               <p>You may anſwer him thus, (or in ſuch like manner,) whereas I was truly cleanſed,<note n="h" place="margin">Reu. 1 5. 1 Ioh. 1.7.</note> put on Chriſt,<note n="i" place="margin">Gal. 3.27.</note> receiued inward grace,<note n="k" place="margin">Tit. 3.7.</note> made the ſonne of God,<note n="l" place="margin">Luk. 20.36. 1 Ioh. 3.1. Rom. 8.14. Ioh. 1.12. Gal. 3.26. 2 Cor. 6.18.</note> and heire with Chriſt,<note n="m" place="margin">Gal. 4.7. Rom. 8.17. Tit. 3.7.</note> vnto eternall life in my Baptiſme, although through the ſubtilty of thée, O Satan, thou haſt tempted mée to ſinne, and thereby haſt cauſed me to fall from my former eſtate of righteouſneſſe: yet by the grace of God, ſo long as I haue truly repented, and am heartily ſorry for all my vgly and loathſome ſinnes, which thou haſt enti<g ref="char:EOLhyphen"/>ſed mée to commit, and am fully purpo<g ref="char:EOLhyphen"/>ſed, both now, and for euer hereafter, to forſake thée O Satan, and all thy cur<g ref="char:EOLhyphen"/>ſed company; and withall, I am fully
+<pb facs="tcp:184171:5"/> determined to continue in newneſſe of life; ſo long my ſure truſt and confidence is, <hi>That God will neuer forſake them that put their truſt in him:</hi>
+                  <note n="n" place="margin">Rom. 9.33. 1 Pet. 2.6. Acts 4.12.</note> and this faith is the faith of Gods elect, <hi>ſo many beleeued, as were ordained vnto ſaluation</hi>
+                  <note n="o" place="margin">Acts 13 48.</note>.</p>
+               <p>And therefore he which hath truly re<g ref="char:EOLhyphen"/>pented, and doubteth of his ſaluation; his vnbeléefe bewrayes his ignorance in the word of God.</p>
+               <p>For, doth not our Sauiour ſay, <hi>He that beleeueth, and is baptized, ſhall bee ſaued</hi>
+                  <note n="p" place="margin">
+                     <hi>Mark</hi> 16.16. Ioh 3.8. Ioh. 3.18</note>. Well then, I doubt not, but with a true heart, and cléere conſcience I may ſay, I was baptized, I haue truly repented, and am heartily ſorrie for all my ſinnes: and doe truly purpoſe to continue by the grace of God in newneſſe of life, and doe alſo fully beleeue: <hi>Ergo,</hi> I ſhall be ſaued; and as the beſt haue deſired to make their election to ſaluation ſure; ſo I, the vnworthieſt of all other, doe daily labour vnto my God with all humility to doe the ſame.</p>
+               <p>And therefore I ſay with <hi>Iob,</hi> euen with a good conſcience and ioyfull heart, that <hi>I am ſure my Redeemer liueth, and al<g ref="char:EOLhyphen"/>though wormes deſtroy this body of mine, yet in my fleſh ſhall I ſee God</hi>
+                  <note n="i" place="margin">Iob 19.25 26</note>: And with Saint <hi>Paul,</hi> that <hi>When mine earthly houſe is deſtroyed, I haue a building giuen of God;</hi> (that is) <hi>an houſe not made with hands, but eternall in Heauen</hi>
+                  <note n="k" place="margin">2 Cor 31.</note>, <hi>where is laid vp for me a crowne, of righteouſneſſe</hi>
+                  <note n="l" place="margin">2 <hi>Tim.</hi> 5</note>; <hi>ſo
+<pb facs="tcp:184171:6"/> that I am perſwaded, that neither death, nor life, nor Angels, nor principalities, nor powers, nor things preſent, nor things to come, ſhall be able to ſeparate mee from the loue of God,</hi>
+                  <note n="m" place="margin">Rom. 8.38, 39.</note> 
+                  <hi>which is in Chriſt Ieſus my Sauiour,</hi>
+                  <note n="n" place="margin">Acts 5.31. Luk. 2.11. 2 Sam. 22.3. Pſal. 18.1.</note> 
+                  <hi>in whom I truſt, and in whom alſo I am ſealed with the holy Spirit of pro<g ref="char:EOLhyphen"/>miſe, which is the earneſt of mine inheri<g ref="char:EOLhyphen"/>tance</hi>
+                  <note n="o" place="margin">Eph. 1.13, 14. Ioh. 6.27. Reuel. 7.3. Ioh. 3.33.</note>.</p>
+               <p>
+                  <hi>And all thoſe who are led by the Spirit of God, are the ſonnes of God</hi>
+                  <note n="p" place="margin">Gal. 4.5, 6, 7. Rom. 8.17. 1 Ioh. 2.28.</note>; if ſonnes, then children; if children, then heires; euen heires annexed with Chriſt vnto eternall life, and conſequently ſure of ſaluation. And that ſo ſure, that no man can plucke them out of the hands of Chriſt<note n="q" place="margin">Ioh. 10.28 2 Tim. 2.26. 1 Pet. 1.5. 1 Ioh. 5.14, 15</note>.</p>
+               <p>This aſſurance made the Virgin <hi>Ma<g ref="char:EOLhyphen"/>rie</hi> call Chriſt her Sauiour,<note n="*" place="margin">Luk. 1.47.</note> the théefe on the croſſe to ſay, <hi>Lord remember mee</hi>
+                  <note n="r" place="margin">Luk. 23.42</note>, and <hi>Paul</hi> to ſay, <hi>that Chriſt gaue himſelfe for me</hi>
+                  <note n="ſ" place="margin">Gal. 2.20.</note>, and in another place, <hi>I know on whom I haue beleeued</hi>
+                  <note n="t" place="margin">2 Tim. 1.12.</note>.</p>
+               <p>This promiſe God hath made vnto all beléeuers; <hi>Hee that beleeueth in mee, though he were dead, yet he ſhall liue</hi>
+                  <note n="u" place="margin">Ioh. 11.25.</note>; <hi>for I will put my feare in their hearts, that they ſhall not depart from me</hi>
+                  <note n="*" place="margin">Ier. 32.40.</note>, <hi>they ſhall bee my people, and I will be their God</hi>
+                  <note n="x" place="margin">Ier. 32.38.</note>, <hi>and for<g ref="char:EOLhyphen"/>giue their iniquities, and remember their ſinnes no more</hi>
+                  <note n="y" place="margin">Heb. 10.17</note>: And thus the greater your faith is, the greater is your aſſu<g ref="char:EOLhyphen"/>rance<note n="z" place="margin">1 Pet. 1.7, 8, 9.</note>.</p>
+               <p>Thus Gods word aſſures you, that if
+<pb facs="tcp:184171:6"/> yée haue truly repented, and continue in newneſſe of life, <hi>ye ſhall liue, and not die: but ſaue your ſoule aliue</hi>
+                  <note n="a" place="margin">Ezech. 18.21, 22.</note> 
+                  <hi>to enioy eternall life.</hi> Thus, <hi>if ye were neuer ſo weary and heauie laden, ye ſhall be eaſed</hi>
+                  <note n="b" place="margin">Mat. 11.28</note>; <hi>If your ſinnes were as red as ſcarlet, they ſhall be made as white as ſnow</hi>
+                  <note n="c" place="margin">Eſay 1.18.</note>: All this our gracious God hath promiſed, which cannot lye; and hath not only ſworne thereunto by an oath<note n="d" place="margin">Heb. 6.17, 18. Eſay 54.9, 10</note>, but alſo bound himſelfe by coue<g ref="char:EOLhyphen"/>nants, as it were a paire of Indentures, the one in the Old Teſtament<note n="e" place="margin">Ier. 1.33. Ier. 32 44. Ier. 24.7.</note>, the other in the New<note n="f" place="margin">Heb. 10.16, 17.</note>.</p>
+               <p>And therefore yée may aſſure your ſelues by the teſtimonies of all theſe Scriptures, that you may be as firmely perſwaded of the certainty of your ſal<g ref="char:EOLhyphen"/>uation, as your hearts can witneſſe the ſincerity of your conuerſion. Saint <hi>Paul</hi> proues it, <hi>I liue, yet not I, but Chriſt liueth in mee</hi>
+                  <note n="g" place="margin">Gal. 2.20. 1 Cor. 3.16.</note>. So Chriſt and the Chriſtian dwelleth not one with another, but one in another; this being in Chriſt is a re<g ref="char:EOLhyphen"/>latiue, for, <hi>Wee cannot be in him, but he muſt be in vs</hi>
+                  <note n="h" place="margin">1 Ioh 5 24</note>. Againe, <hi>Know yee not your owne ſelues</hi> (ſaith hée) <hi>how Ieſus Chriſt is in you, except yee bee reprobates</hi>
+                  <note n="i" place="margin">2 Cor. 13.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note>? Here Saint <hi>Paul</hi> giueth them the title of re<g ref="char:EOLhyphen"/>probates, that <hi>know not how Ieſus Chriſt is in them.</hi>
+               </p>
+               <p>By theſe words we ought all to vnder<g ref="char:EOLhyphen"/>ſtand, that all which beléeue haue the Spirit of diſcerning, to know certainly that they doe beléeue; becauſe the faith
+<pb facs="tcp:184171:7" rendition="simple:additions"/> which he here ſpeaketh of, is that liuely faith, whereby Chriſt dwelleth in our hearts; thus <hi>if Chriſt dwell in our hearts, then wee are in Chriſt; if wee bee in Chriſt, wee cannot bee condemned, for there is no condemnation to them that are in Chriſt Ieſus</hi>
+                  <note n="k" place="margin">Rom. 8.1.</note>.</p>
+               <p>And by theſe examples I conclude with this ſaying of Saint <hi>Peter,</hi> I would haue all that feare God, and hope to be ſaued, euen for Gods ſake, their owne ſake, and their ſoules ſake, <hi>to make their ele<g ref="char:EOLhyphen"/>ction ſure, and they ſhall neuer fall</hi>
+                  <note n="a" place="margin">2 Pet. 1.10</note>; nei<g ref="char:EOLhyphen"/>ther will that ſoule feare to goe vnto Chriſt,<note n="b" place="margin">1 Ioh. 3.10</note> 
+                  <hi>that is in Chriſt,</hi> it knoweth it is reconciled vnto his Sauiour<note n="c" place="margin">Pal. 18.1. Acts 5.31. 2 Sam. 12.3. Luk. 2 11 1 Tim. 4.10. Matth. 1.21.</note>, and therefore hee néed not to feare ſudden death, who is euer prepared to die: and alſo aſſured of his ſaluation, to liue in Heauen with the royall Prieſthood<note n="d" place="margin">Exod 19.6 1 Pet. 2.9. Eſay. 61.6. Pſal. 132.9.</note>, the peculiar people,<note n="e" place="margin">Tit. 2.14. Ioh. 10.28, 29, 30.</note>, the children of light<note n="f" place="margin">2 Sam. 22.29.</note>, the new creatures<note n="*" place="margin">Gal. 6.15.</note>, the elect by Gods preordination<note n="g" place="margin">Eph. 1.4. 1 Pet. 1.2.</note>, where all are Kings and heires with Chriſt<note n="h" place="margin">Rom. 8.17. Gal 4 7. Tit. 3.7.</note>, inueſted with glorie<note n="i" place="margin">Rom. 9.23.</note>, and crowned with Maieſtie<note n="k" place="margin">2 Tim. 4 8.</note>, to reigne with Chriſt in his eternall Kingdome.</p>
+               <p>Laſtly, if Satan lay open all your ſins that euer you haue committed, and ſay, they are more and greater than can bee pardoned, and ſo perſwade you to de<g ref="char:EOLhyphen"/>ſpaire, then ſay vnto him, Depart Satan, I defie thée, and all thy workes <g ref="char:dram">ʒ</g> if my ſinnes were as many <hi>as the haires of mine
+<pb facs="tcp:184171:7" rendition="simple:additions"/> head</hi>
+                  <note n="l" place="margin">Pſal. 40.12</note>, <hi>or ſands in the ſea</hi>
+                  <note n="m" place="margin">Manaſſ. pr.</note>, <hi>yet it is God that iuſtifieth, who ſhall then condemne me</hi>
+                  <note n="n" place="margin">Eſay 50.8. Rom. 8.32, 33.</note>?</p>
+               <p>Oh Satan, I am none of thy curſed <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rew, nor by the grace of God neuer ſhall <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ee; thou haſt no part nor portion in me, wherefore I bequeath all, and euery one of my ſinnes againe vnto thée, O Satan, from whence they came, and appeale vnto my God, in Chriſt, for his mercy, that hée may ſaue mée from thy curſed company.</p>
+               <p>Oh, thou helliſh Fiend, I ſay againe, Depart, I doe vtterly defie thée, O take thy vgly ſinnes againe, which thou haſt cauſed me to commit; and lay them not vnto my charge, for I am a member of my Lord and Sauiour Ieſus Chriſt<note n="d" place="margin">1 Cor. 6.15, 19.</note>, and partaker of his annointing<note n="e" place="margin">1 Ioh 2.27.</note>, and ſo long as I haue earneſtly repented of all thoſe ſinnes which thou haſt enticed mée to doe, confeſſed my <hi>Sauiours name</hi>
+                  <note n="f" place="margin">Mat. 10.32. Rom. 10 10, 2 Sam. 14.11.</note>, and preſented my ſelfe a liuely ſacrifice of thankſgiuing vnto Almighty God<note n="g" place="margin">Rom. 12.1. Reu 4.8, 10. 2 Pet. 5.9. Reuel. 1.6. Rom. 6.12.13.</note>, and alſo doe in this life by the helpe of my Sauiour<note n="h" place="margin">Act. 5.31. Luk. 2.11. Pſal. 18.1. Mat. 1.21. 2 Sam. 22 3. 1 Tim. 4.10.</note>, fight againſt thee thou dam<g ref="char:EOLhyphen"/>ned Satan, and that with a cleare and good conſcience<note n="i" place="margin">Epheſ 6.11. Gal. 5.1, 17. 1 Tim. 1.18, 19.</note>, why then ſhould I feare thée<note n="k" place="margin">1 Pet. 5.8.</note>? I am ſure, that when I depart this life, I ſhall enioy an euerlaſting Kingdome with my Creator<note n="l" place="margin">Mat. 25.34. 2 Tim. 3.12.</note>.</p>
+               <p>But marke this one thing aright, with<g ref="char:EOLhyphen"/>out fauour or affection vnto any parti<g ref="char:EOLhyphen"/>cular ſinne; that yée be well aſſured that ye haue repented and are heartily ſorry for
+<pb facs="tcp:184171:8"/> all your ſinnes; as thoſe alleaged Scrip<g ref="char:EOLhyphen"/>tures doe teach you<note n="m" place="margin">Ezech. 18.21, 22, 23. 2 King 17.13 Acts 2.38. 2 Pet. 3.8. Acts 17.30. Hoſ. 14.2. Ier. 36.3. Luk. 13.3. Ier. 18.11. Mat. 4.17. Mat. 3.26.</note>, for otherwiſe (if you haue but the leaſt of your ſinnes left to reigne in you) he will ſoone finde mat<g ref="char:EOLhyphen"/>ter enough to plead againſt you. Where<g ref="char:EOLhyphen"/>fore you muſt not onely barely repent, and ſlightly ſorrow for your ſinnes, and ſo careleſly giue them ouer, as though you could repent when you would; but yée muſt accuſe your ſinnes, loath, hate, and deteſt them, your conſcience muſt witneſſe againſt them, and your hearts conuince them.</p>
+               <p>Oh, beloued, is it a greater terrour vnto you, to accuſe your ſinnes, than it was a delight to commit them? would yée be in loue with ſinne, which is the ſoules ſickneſſe, and the breach of Gods Law, which whoſoeuer committeth is of the Deuill: how dare yée act thoſe ſinnes, you dare not aske for pardon? Haue you procured Gods vengeance, and will yée refuſe to aske for his mercie? Oh, no, no; the more penitent a ſinner is, the more mercifull is God, and the readier to giue pardon.</p>
+               <p>So that all yée which haue truly repen<g ref="char:EOLhyphen"/>ted, and fully purpoſe to continue in new<g ref="char:EOLhyphen"/>neſſe of life, may boldly ſay vnto Satan, or vnto any of his deſpairing <hi>Iudaſſes,</hi> that would perſwade you to deſpaire: <hi>That the God whom I ſerue is able to deliuer me</hi>
+                  <note n="a" place="margin">Dan. 6.16.</note>, <hi>ſo that the gates of hell ſhall not preuaile againſt me</hi>
+                  <note n="b" place="margin">Mat. 16.18.</note>, <hi>for hee maketh mee to dwell in ſafetie</hi>
+                  <note n="c" place="margin">Pſal. 4.9.</note>;
+<pb facs="tcp:184171:8"/> yea, and that both in ſoule and body, <hi>whe<g ref="char:EOLhyphen"/>ther I liue or die</hi>
+                  <note n="d" place="margin">Rom. 14.8.</note>, <hi>I am not mine owne</hi>
+                  <note n="e" place="margin">1 Cor. 6.19</note>, <hi>but belong wholly vnto my Sauiour Ieſus Chriſt</hi>
+                  <note n="f" place="margin">1 Cor. 3.23 Tit. 2.14.</note>, <hi>who by his precious bloud hath ſatisfied for all my ſinnes</hi>
+                  <note n="g" place="margin">1 Pet. 1.18, 19. Epheſ. 1.7. Heb. 9.14. Reuel. 1.5. Heb. 2.14.</note>, <hi>deliuered mee from the power of the Deuill</hi>
+                  <note n="h" place="margin">Eſay 53.34</note>, <hi>to preſerue me</hi>
+                  <note n="i" place="margin">Ioh. 6.39. Ioh. 10.28. 1 Pet. 1.5. 2 Theſſ. 3.3.</note> 
+                  <hi>from all danger, that without the will of my hea<g ref="char:EOLhyphen"/>uenly Father, not ſo much as one haire of my head ſhall fall from me</hi>
+                  <note n="k" place="margin">Mat. 10.30 Luk. 21.18. 2 Sam. 14.11 Acts 27.34.</note>. Therefore I will not doubt of my ſaluation, nor feare what man or Satan can doe againſt me; for I will put my whole truſt in the mer<g ref="char:EOLhyphen"/>cie of God, <hi>If he ſlay me, yet will I put my truſt in him</hi>
+                  <note n="l" place="margin">Iob 13.15.</note>.</p>
+               <p>And thus with a true affection and de<g ref="char:EOLhyphen"/>ſire of heart<note n="m" place="margin">Ioh. 4.23, 24. Pſal. 145.18</note> through the inward fée<g ref="char:EOLhyphen"/>ling of our miſeries<note n="n" place="margin">2 Chron. 20.21. Pſal. 2.11. Eſay 66.2.</note>, you muſt caſt your ſelues downe proſtrate in the preſence of Almightie God<note n="o" place="margin">Rom. 10.14</note>, and build your ſelues on this ſure foundation<note n="p" place="margin">Iam. 1.6.</note>, that yée, though farre vnworthie, yet for Ieſus Chriſt his ſake, are certainly heard of God<note n="q" place="margin">Ioh. 14.13.</note>, euen as he hath promiſed in his word<note n="r" place="margin">Mat. 7.7, 8. Mat. 11.24. Luk. 11.9. Ioh. 16.24.</note>.</p>
+               <p>And withall, you muſt bée ſo feruent with God in your dayly prayers, for the forgiueneſſe of your ſinnes, that yée muſt with <hi>Iacob, euen wreſtle with God</hi>
+                  <note n="ſ" place="margin">Gen. 32.26.</note>, and ne<g ref="char:EOLhyphen"/>uer let the Lord goe, vntill he bleſſe you: but with ſighs, groanes and teares<note n="t" place="margin">Iam. 4.9. Deut. 14.5.</note>, be<g ref="char:EOLhyphen"/>waile your ſinnes, beg for his mercies, and that ſo entirely, as it were for life and death; yea wéepe for your ſinnes like <hi>Mary Magdalen</hi>
+                  <note n="u" place="margin">Ioh. 20.15.</note>, and powre forth flouds of teares like <hi>Ezechia</hi>
+                  <note n="*" place="margin">2 King 20.3</note>: vntill yée doe ſo,
+<pb facs="tcp:184171:9" rendition="simple:additions"/> you ſhall neuer haue peace, nor quietneſſe of conſcience, neither any ſound comfort of Gods holy Spirit in you.</p>
+               <p>Thus all thoſe which haue truly repen<g ref="char:EOLhyphen"/>ted, and continued in newneſſe of life, are ſpiritually <hi>renati et iuſtificati,</hi> borne againe in righteouſneſſe, and iuſtified from ſin; wherefore I conclude with this beléefe, that I doe fully hope (through the merits of Ieſus Chriſt) to be ſaued, and am re<g ref="char:EOLhyphen"/>ſolued that eternall life belongs not vnto others only, but vnto me alſo: ſo that Chriſt died for my ſinnes, and roſe againe for my iuſtification; and that God who gaue him for me, gaue me all things with him, <hi>Rom. 8.32.</hi> If all things, then he gaue me eternall life.</p>
+               <p>This is my faith, and from this faith <hi>permanet in facto mens mea firma ſuo,</hi> feares ſhall not compell me; <hi>&amp; lachrymae voluun<g ref="char:EOLhyphen"/>tur inanes,</hi> and teares ſhall not moue me to change my minde: <hi>Quia mens immota manet;</hi> for I am fully reſolued, neuer to alter it, and I doe reſt in hope, and am alwayes waiting for the accompliſhment thereof.</p>
+            </div>
+            <div n="2" type="chapter">
+               <pb facs="tcp:184171:9"/>
+               <head>Now whereas I haue laid open the cer<g ref="char:EOLhyphen"/>tainty of mans ſaluation; as farre, and as faire as I can, by the authority of Gods word, I purpoſe in this ſecond Chapter, by the helpe of God, to ſet forth the doctrine of repentance, and ſhew the neceſſity thereof: and ſo conclude according vnto this Text of Scripture, <hi>Matth. 3.2. Re<g ref="char:EOLhyphen"/>pent yee.</hi>
+               </head>
+               <p>GOod Chriſtian Readers, if yée looke thorow the whole booke of God, from the <hi>Alpha</hi> of <hi>Geneſis,</hi> vnto the <hi>Omega</hi> of the <hi>Reuelation;</hi> you ſhall finde ſcarce any Text to be ſhorter than this; yet howſo<g ref="char:EOLhyphen"/>euer there is none more néedfull, nor any more profitable; neither doth the Holy Ghoſt ſo much labour in all the Scrip<g ref="char:EOLhyphen"/>ture, as he doth to draw men vnto repen<g ref="char:EOLhyphen"/>tance, <hi>Repent yee</hi>
+                  <note n="a" place="margin">Ezech. 18.21. Eccleſ. 8.21 22. Ier. 18.11. Acts 17.30. 2 King 17.13. Ier. 25.5. Acts 11.18. Luk 3 3. Ier 36.3. Mat. 3.2, 8. 2 Pet. 3.9. Mat. 4.14.17. Act. 2.38. Hoſ. 14.1, 2. Eſay 31 6. Mal. 3.7. Ezech. 33.11 Ierem. 4.14. Eſay 1.16. Eſay 55.7. Luk. 13 3. 2 Chro. 33.6</note>.</p>
+               <p>Great néed requires great haſte, and the wound that is déepeſt, hath néed of the diligenteſt cure, ſo that the longer I haue continued in ſinne, the more earneſtly I doe returne vnto my God by repentance; for repentance ought to bring forth as much ſorrow, as ſinne gaue delight; ex<g ref="char:EOLhyphen"/>ample in <hi>Manaſſes</hi>
+                  <note n="b" place="margin">Manaſſ. pr.</note>, <hi>Mary Magdalen</hi>
+                  <note n="c" place="margin">Luk. 7.18.</note>, and the like.</p>
+               <p>Saint <hi>Auguſtine</hi> was a great ſinner, and wrote many bookes of repentance: which
+<pb facs="tcp:184171:10"/> ſheweth to whom much is forgiuen, they ought to loue much: and the greater their ſinnes are, the more néed they haue of re<g ref="char:EOLhyphen"/>pentance, <hi>Repent yee.</hi>
+               </p>
+               <p>And I which am the vnworthieſt of all men, haue wrote, (for the benefit of o<g ref="char:EOLhyphen"/>thers, as well as my ſelfe) almoſt all the bookes that euer I made, concerning re<g ref="char:EOLhyphen"/>pentance: and the longer I haue writ<g ref="char:EOLhyphen"/>ten of it, the more tender my heart is, and the more earneſt my deſire is to re<g ref="char:EOLhyphen"/>turne vnto my God by repentance, and a<g ref="char:EOLhyphen"/>mendment of life, in the which I pray God to gire me his grace to continue vn<g ref="char:EOLhyphen"/>to my liues end.</p>
+               <p>And as a Traytor that is condemned to die, (if he loued his Prince,) he would goe neare to breake his heart with griefe, to thinke that he ſhould be ſo villanous vnto ſo gracious a Prince that would forgiue al<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> his fact, if he would but aske for pardon, become a new man, and true ſubiect vnto him:</p>
+               <p>Euen ſo it is with me, (through griefe for my ſinnes,) each time I behold Gods mercies towards me, (a miſerable and moſt wretched ſinner,) in ſparing me ſo long, and giuing me ſuch a large time of repentance. <hi>Repent yee. Duo verba, duo luminaria,</hi> Theſe two words are like the two great lights in Heauen<note n="a" place="margin">Gen. 1.16.</note>, which ſerue to direct vs in all our wayes, they are the <hi>Superſedeas</hi> and diſcharge of ſin<note n="b" place="margin">Iam. 3.5. Mat. 12.41 Luk. 11.32. Eſay 1.16. Gen. 50 17. 2 Pet. 3.9. Ezech. 18.20, 21. Mal. 13.7. Eſay 55.7. Zach. 1.3. Ezech 33.5. Eſay 56.2. Ier. 4.14.</note> through the merits of Ieſus Chriſt<note n="c" place="margin">1 Pet 1 18, 19. Heb 9.14. Reuel. 1.5.</note>: And the
+<pb facs="tcp:184171:10"/> cauſe of vnity betwéene God and man. They are <hi>Imperatoria breuitas,</hi> a Lord<g ref="char:EOLhyphen"/>like breuity: Tis ſhort, for feare leſt mans brittle memory ſhould come ſhort of it: and it is the full weight of a few words, <hi>Virtus maxima in mole minima,</hi> very much in a little. And they are more precious than any pearle, or pure gold, and as néed<g ref="char:EOLhyphen"/>full to direct me that made this booke, as you that reade it: wherefore if euer wée hope to be ſaued, we muſt needs forſake our ſinnes, and with all humility returne vnto God by repentance, according vnto my Text, <hi>Repent yee.</hi>
+               </p>
+               <p>For as God is mercifull vnto the pe<g ref="char:EOLhyphen"/>nitent ſinner<note n="g" place="margin">Exod. 34.5 6, 7. Pſal. 145 9. Exod. 20 6.</note>, he alſo ſheweth his iuſtice vnto the reprobate<note n="h" place="margin">Deut 32.4. Pſal. 55.6. Exod. 20.7. Nahum. 1.2, 3. VViſd. 14.9.</note>, whoſe anger vnto them is moſt dreadfull<note n="i" place="margin">Pſal. 18 7. Reuel. 6 15. Heb. 12.16.</note>, <hi>Odio eſt Deo im<g ref="char:EOLhyphen"/>pius &amp; impietas eius,</hi> God hateth the wic<g ref="char:EOLhyphen"/>ked man, and his wickedneſſe too<note n="k" place="margin">Pro. 15.8, 9, 29. 1 Ioh. 3.8. Pro 11.6. Pro. 1.28.</note>, Yea, their very thoughts<note n="l" place="margin">Wiſd. 1.9. Mar. 12.36.</note>, words and works<note n="m" place="margin">Rom. 1.18. Pſal. 5.6. Exod 20.5. Epheſ. 5 6.</note> God hateth: and therefore without re<g ref="char:EOLhyphen"/>pentance there is no ſaluation<note n="n" place="margin">Luk. 13.3. Eſay 59 2. Mal 1.2.</note>.</p>
+               <p>Againe, <hi>Inanis poenitentia, quam ſequens culpa de nouo iterat:</hi> Vaine is that repen<g ref="char:EOLhyphen"/>tance which an after fall defileth: It a<g ref="char:EOLhyphen"/>uaileth a man nothing, to aſke of God for pardon of his ſinnes, and fall like an hog into the mire of his ſinnefull life afreſh againe.</p>
+               <p>Wherefore if yée will truly repent, yée muſt forſake all your ſinnes for euer, and returne vnto God by repentance, as theſe Scriptures teach you. <hi>O yee children of<pb facs="tcp:184171:11"/> Iſrael</hi> (ſaith <hi>Eſay) turne againe from your euill wayes, wherein you haue drowned your ſelues</hi>
+                  <note n="a" place="margin">Eſay 31 6.</note>, <hi>turne you, turne you from all your euill wayes, for why will yee die, O yee houſe of Iſrael</hi>
+                  <note n="b" place="margin">Ezech. 33.11</note>? <hi>Returne vnto me, and I will returne vnto you,</hi> ſaith the Lord<note n="c" place="margin">Mal 3.7.</note>. A<g ref="char:EOLhyphen"/>gaine, <hi>O Ieruſalem, waſh thine heart from wickedneſſe that thou mayeſt bee ſaued</hi>
+                  <note n="d" place="margin">Ier. 4.14.</note>. And againe, <hi>Let the wicked forſake their euill wayes, and returne vnto the Lord, and he will haue mercie on them, for he is merci<g ref="char:EOLhyphen"/>full, and very ready to forgiue</hi>
+                  <note n="e" place="margin">Eſay 55.7.</note>: So that, <hi>Nemo ad Deum flens acceſſit, qui non quod poſtulauit, accepit;</hi> No man came euer wéeping vnto God, who did not receiue that which he required, (eſpecially if he ſought it through faith in his repentance:) wherefore Saint <hi>Peter</hi> wept bitterly, that his teares might waſh away his ſinnes<note n="f" place="margin">Mat. 26 75.</note>.</p>
+               <p>Oh, let vs dayly labour with all humi<g ref="char:EOLhyphen"/>lity, to waſh away the pollution of our ſinnes with teares in our repentance, that we may be ſaued.</p>
+               <p>Now good Chriſtian Readers, I would haue you to conſider, that I made not this booke onely for mine owne priuate vſe, with an <hi>Attende mihi,</hi> a ſuit vnto God for my ſelfe, (which of all men haue moſt néed of repentance,) but alſo like the poore Italian begger, with an <hi>Attende tihi:</hi> Now for Gods ſake, your owne ſake, and your ſoules ſake, be mrecifull, be cha<g ref="char:EOLhyphen"/>ritable, and comfortable vnto your owne ſoules, and <hi>Repent yee.</hi>
+               </p>
+               <pb facs="tcp:184171:11"/>
+               <p>So that you with me, and I with you, may all from the bottome of our hearts, returne vnto the Lord by true repen<g ref="char:EOLhyphen"/>tance: And as <hi>Tertullian</hi> ſaith, <hi>Sperando ti<g ref="char:EOLhyphen"/>mebimus, timendo cauebimus, cauendo ſalui eri<g ref="char:EOLhyphen"/>mus:</hi> In hoping or deſiring to repent, we ſhall feare our ſinnes, in fearing take héed to amend our liues, and in taking héed, (through our true repentance) by the merits of our Sauiour<note n="a" place="margin">Pſal. 18.1. 2 Sam. 22.3 Acts 5.31. Luk. 2.11. Mat. 1.21. 1 Tim. 4 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> Ieſus Chriſt, be ſaued.</p>
+               <p>For, God aſſures no man pardon for his ſinnes<note n="b" place="margin">Luk. 13.3. Nahum. 1.2. Eſay 59 2. 1 Ioh. 1.9. 1 Ioh. 3.8.</note>, but ſuch as returne vnto him by true repentance, become new crea<g ref="char:EOLhyphen"/>tures<note n="c" place="margin">1 Pet. 1.23 Gal. 6 15. 2 Cor 5.17. Rom 11.5.</note>, and walke in newneſſe of life<note n="d" place="margin">Rom. 6.4. 1 Pet. 2 9, 10, 11, 12. Acts 3 16. Epheſ. 4 1. Gal 5 10. 1 Ioh. 2 3, 5, 6.</note>.</p>
+               <p>Wherefore beloued, ſéeing that mine, and all our ſoules are infected with the poyſon of ſinne, let vs not looke, or thinke on our worldly buſineſſe; nor let our ſoules gad abroad with <hi>Dinah, but com<g ref="char:EOLhyphen"/>mune with our owne hearts,</hi> and returne vnto God by ſpéedy repentance; for <hi>Peri<g ref="char:EOLhyphen"/>culum eſt animae,</hi> our ſoules lie at the ſtake, or point of death, bléeding with the heauie burthen of our ſinnes, and can be no way cured or ſaued, but by repentance, whom none can pardon but God<note n="a" place="margin">Luk. 5 21. Dan 9 9. Heſt. 13 4. Hoſ. 14.1, 4. Ioh. 1.29. Pſal. 32.1, 2, 3 Ioh. 1.15, 16. Pſal. 3.8. Pſal. 49.7, 8. Mat. 1.21. Pſal. 17.7. Luk. 17.30. Ioh. 6.36. Luk. 1.77. Iohn 4 10. Pſal. 79 9. Pſal. 51.12, 13. 1 Tim. 1.15. 1 Iohn 3.5, 6. 1 Ioh. 1.7. Pſal. 4.8.</note>.</p>
+               <p>Therefore let vs repent while me may haue time, and deferre it not vntill here<g ref="char:EOLhyphen"/>after; for, <hi>Qui non eſt hodie, cras minus aptus erit;</hi> He that is not ready to repent to day, will be leſſe ready to morrow; becauſe
+<pb facs="tcp:184171:12"/> his heart will be more hardened, his con<g ref="char:EOLhyphen"/>ſcience more ſeared, his ſoule more ſtung with ſinne, and himſelfe more weake to get out of the clawes of the Deuill.</p>
+               <p>O Lord my God,<note n="b" place="margin">Pſal. 109.25. Pſal. 7.2. Pſal. 40 6. 1 King. 7.20, 21. Pſal 18.1. Pſal. 30.2. Pſal. 99.8, 9.</note> it is my ſinnes, oh, it is mine vnrepented ſinnes, that kind<g ref="char:EOLhyphen"/>leth the fire of thy wrath againſt me, and nothing but my teares I ſhed for them in my dayly repentance, through the merits of my Lord and Sauiour<note n="c" place="margin">Acts 5.31. Pſal. 18.1. Luk 2.11. 2 Sam. 22.3. Mat. 11.21. 1 Tim 4.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> Ieſus Chriſt, will be the water to quench them. <hi>Re<g ref="char:EOLhyphen"/>pent yee.</hi>
+               </p>
+               <p>If euer precept came home vnto our hearts, to warne vs to forſake our ſinnes, it is this: if euer charge was reaſonable, or moſt néedfull for our ſoules ſaluation, it is this, <hi>Repent yee.</hi>
+               </p>
+               <p>God hath giuen vs, <hi>membra duplicia,</hi> two members, two eyes, two eares, two armes, two legges: that the failing of the one, may be ſupplyed by the other; <hi>animam vero vnam,</hi> he hath giuen vs but one ſoule; when that is loſt there is no ſup<g ref="char:EOLhyphen"/>plie.</p>
+               <p>I ſée (gentle Readers) the more I en<g ref="char:EOLhyphen"/>ter into repentance, the more tender mine heart is, and the more my vnrepented ſinnes doe grieue me, ſo that the griefe of mine heart is ſo great, for my ſinnes, that I can goe no further to inſtruct you in the doctrine of repentance, before I haue eaſed mine owne heart, by bewailing my ſins vnto Almighty God: and like the poore <hi>Lazarus,</hi> or wounded begger, lay
+<pb facs="tcp:184171:12" rendition="simple:additions"/> ouen all my wounds, blaines, and putri<g ref="char:EOLhyphen"/>fying ſores of ſinne, vnto my Lord and Sauiour Ieſus Chriſt.</p>
+               <p>Now I know no way better to grieue and lament for my ſinnes, than with <hi>Aannah</hi>
+                  <note n="b" place="margin">1 Sam. 1.10.</note>, to powre out my ſoule vnto thée, O Lord my God<note n="c" place="margin">Pſal. 30.2. Pſal. 7.<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Pſal. 109.25. 1 King. 17.20 21. Pſal. 18.1. Pſal. 40.6. Pſal. 7.2. Pſal. 99.8, 9.</note>, by my moſt humble faſting, and deuout praying, with all humility vnto thée, thot through thy merits dnd bitter paſſion on the croſſe) vpon my true repentance) thou wilt haue mercy on me, O Lord haue mercy on me.</p>
+               <p>Wherefore with griefe for my ſinnes, from the bottome of mine heart, I will proſtrate my ſelfe before thée, my ſwéet and louing Sauiour<note n="d" place="margin">2 Sam. 22.3 Acts 5.31. Pſal. 18.1. Luk. 2.11. 1 Tim. 4.10. Mat. 1.21.</note>, moſt humbly deſi<g ref="char:EOLhyphen"/>ring thy mercifull eares to heare, and pitifull eyes to looke backe vpon me, as thou diddeſt on the woman of Canaan<note n="e" place="margin">Mat. 15.28</note>, the poore Publican<note n="f" place="margin">Luk. 18.13.</note>, on <hi>Mary Magdalen</hi>
+                  <note n="g" place="margin">Ioh. 20.15:</note>, or the penitent theefe<note n="h" place="margin">Luk. 23.40</note>, which came vnto thée in his laſt houre.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
